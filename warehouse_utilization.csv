@@ -1,0 +1,4 @@
+warehouse_id,name,region,stock_kg,used_kg,remaining_kg,utilization_pct
+WH_NORTH,Chennai Central Depot,North,80000,888.2,79111.8,1.1
+WH_CENTRAL,Tiruchirappalli Depot,Central,65000,1941.7,63058.3,3.0
+WH_SOUTH,Madurai South Depot,South,55000,2489.4,52510.6,4.5
